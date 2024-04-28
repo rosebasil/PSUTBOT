@@ -1,0 +1,21 @@
+ os
+dotenv 
+datetime 
+langchain.llms 
+langchain.embeddings 
+langchain.vectorstores 
+langchain.chains 
+langchain.prompts 
+langchain.text_splitter 
+langchain.schema 
+langchain.memory 
+flask 
+flask_cors 
+csv
+json
+selenium
+fitz
+requests
+chromedriver_autoinstaller
+BeautifulSoup
+MongoClient
